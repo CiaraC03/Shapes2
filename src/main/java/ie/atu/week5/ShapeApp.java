@@ -10,5 +10,9 @@ public class ShapeApp {
         double length = input.nextDouble();
         System.out.print("You entered : " + length);
 
+        System.out.println("Please enter the width of the rectangle");
+        double width = input.nextDouble();
+        System.out.print("You entered : " + width);
+
     }
 }
